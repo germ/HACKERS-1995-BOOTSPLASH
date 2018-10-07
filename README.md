@@ -15,6 +15,9 @@ Phreak: I want it to have my children!
 Cereal: Yeah, I bet it looks crispy in the dark.
 Phreak: Yo hit the lights!
 
+We're still in development, just uploading to get
+her started
+
 Screenshots:
 TODO: SCREENSHOTS
 
